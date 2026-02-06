@@ -1,6 +1,6 @@
 - 👤 Hi, I’m @alirzv
 - 👀 I’m interested in ... IoT, Cloud Technologies, Solving problems.
-- 🌱 I’m currently learning ... Google Cloud Platform, Python and Terraform. I am playing with micro:bit and Raspberry Pi Pico now a days.
+- 🌱 I’m currently learning ... Google Cloud Platform, Python and Terraform. I am playing with micro:bit and Raspberry Pi now a days.
 - 🤝 I’m looking to collaborate on ... solving problems which can make world a better place.
 
 <!---
